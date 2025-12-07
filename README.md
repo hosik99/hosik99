@@ -8,13 +8,8 @@ Java와 Spring Boot를 주로 사용하며, React 기반 프론트엔드 개발�
 ### 🚀 진행 중인 프로젝트
 ###  Whale Devs **개발자 면접문제 앱 서비스**
 - [GitHub](https://github.com/WhaleDevelopers) 
-- [Info](https://dot-woodwind-39a.notion.site/whale-devs-299303eae1f280a9a4f3d8a54a042f1f?pvs=74) 
----
-
-### 📚 최근 학습 중인 기술
-- Flutter + Dart 아키텍쳐
-- 각종 패키지, 언어, 프레임워크 이론
-
+- [Info](https://dot-woodwind-39a.notion.site/whale-devs-299303eae1f280a9a4f3d8a54a042f1f?pvs=74)
+  
 ---
 
 ### 🧩 자기소개
