@@ -3,9 +3,15 @@
 
 Java와 Spring Boot를 주로 사용하며, React 기반 프론트엔드 개발에도 관심이 많습니다.
 
+
+
 ---
 
-### 🚀 진행 중인 프로젝트
+### 🚀 프로젝트 바로가기
+
+###  MonStu  **다국어 학습 플랫폼**
+- [GitHub](https://github.com/FinalMonstu) 
+
 ###  Whale Devs **개발자 면접문제 앱 서비스**
 - [GitHub](https://github.com/WhaleDevelopers) 
 - [Info](https://dot-woodwind-39a.notion.site/whale-devs-299303eae1f280a9a4f3d8a54a042f1f?pvs=74)
